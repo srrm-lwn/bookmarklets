@@ -1,0 +1,1 @@
+window.location.href="data:text/html;charset=utf-8,%20<title>Notes</title><body%20contenteditable%20style=\"font-family:%20Courier%20New;background:#1E1E1E;color:#FFFFFF;font-size:1rem;line-height:1.4;max-width:250rem;margin:0%20auto;padding:2rem;\"%20spellcheck=\"false\">Scribble away..&#10;";
